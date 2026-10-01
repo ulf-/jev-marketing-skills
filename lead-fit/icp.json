@@ -1,0 +1,9 @@
+{
+  "_help": "Describe YOUR buyer. Jev reads these descriptions literally, so say who counts, plainly. This example is a B2B marketing agency.",
+  "offer": "An outsourced B2B marketing agency: content, SEO, paid ads and LinkedIn programs, sold as a monthly retainer.",
+  "ideal_company": "A B2B company with 50 to 500 employees that sells software, technology or professional services to other businesses.",
+  "decision_maker": "Signs the contract: CEO, founder, owner, president, CMO, CRO, VP of Marketing, VP of Sales, VP of Growth, Head of Marketing, Marketing Director.",
+  "influencer": "Scopes and vets the agency but does not sign: marketing manager, demand gen manager, growth manager, content lead, communications manager, RevOps manager, product marketing manager.",
+  "practitioner": "Works in or near marketing and sales but does not choose agencies: coordinators, specialists, designers, writers, analysts, SDRs, account executives, engineers.",
+  "not_a_fit": "Unrelated to buying marketing: students, job seekers, recruiters, finance, legal, HR, clinical staff, or another agency's employee."
+}
